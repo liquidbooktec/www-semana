@@ -1645,8 +1645,8 @@ body {
   }
 }
 .cid-rmBnKaPnrf {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
 .cid-rmBnKaPnrf P {
@@ -1659,13 +1659,10 @@ body {
 .cid-rmBnKaPnrf .mbr-section-btn {
   color: #465052;
 }
-#instagram-feed-block-a .inst__title {
-  color: #ffc809;
-}
 .cid-rkHuNL8bYR {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
+  background: linear-gradient(0deg, #767676, #767676);
 }
 .cid-rkHuNL8bYR .mbr-iconfont-social {
   font-size: 32px;
@@ -1673,6 +1670,9 @@ body {
 }
 .cid-rkHuNL8bYR .social-list a:focus {
   text-decoration: none;
+}
+.cid-rkHuNL8bYR H2 {
+  color: #ffffff;
 }
 .cid-rmAsSQGgEi {
   padding-top: 90px;
