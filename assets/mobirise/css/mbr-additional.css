@@ -2158,7 +2158,7 @@ body {
   width: 100%;
 }
 .cid-rrHPsiwdML {
-  background: linear-gradient(45deg, #c1c1c1, #c1c1c1);
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
 @media (min-width: 992px) {
   .cid-rrHPsiwdML .mbr-figure {
@@ -2179,6 +2179,13 @@ body {
     padding-left: 0;
     padding-right: 4rem;
   }
+}
+.cid-rrHPsiwdML .mbr-section-title {
+  color: #232323;
+}
+.cid-rrHPsiwdML .mbr-text,
+.cid-rrHPsiwdML .mbr-section-btn {
+  color: #767676;
 }
 .cid-rmAsM9b8Jf {
   padding-top: 30px;
